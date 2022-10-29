@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/salmanrentcar/static/css/main.59cb3a84.css",
+    "main.js": "/salmanrentcar/static/js/main.6068122c.js",
+    "static/media/cars.jpg": "/salmanrentcar/static/media/cars.87974247395d46b1b242.jpg",
+    "static/media/xpander2.jpg": "/salmanrentcar/static/media/xpander2.6d0585256e3cd013534d.jpg",
+    "static/media/logo.png": "/salmanrentcar/static/media/logo.7cbfdd9182742a932bab.png",
+    "static/media/innova.jpg": "/salmanrentcar/static/media/innova.a3ab019ce84f76cab2e6.jpg",
+    "static/media/veloz.jpg": "/salmanrentcar/static/media/veloz.48ceed2455bb36382ab0.jpg",
+    "static/media/airport.jpg": "/salmanrentcar/static/media/airport.64c535b47482757e70e3.jpg",
+    "static/media/rush.jpg": "/salmanrentcar/static/media/rush.0cbf714764a99369005f.jpg",
+    "static/media/driver.jpg": "/salmanrentcar/static/media/driver.350122509f8907a0b396.jpg",
+    "static/media/masthead2.jpg": "/salmanrentcar/static/media/masthead2.479ca04e57fe8b1d6f3f.jpg",
+    "static/media/car-3.png": "/salmanrentcar/static/media/car-3.9262466a10a00185b8a5.png",
+    "static/media/five-star.png": "/salmanrentcar/static/media/five-star.1066230cd92fb7c6f681.png",
+    "static/media/cheap-price.png": "/salmanrentcar/static/media/cheap-price.23d792e249e1bbb73fc9.png",
+    "index.html": "/salmanrentcar/index.html",
+    "main.59cb3a84.css.map": "/salmanrentcar/static/css/main.59cb3a84.css.map",
+    "main.6068122c.js.map": "/salmanrentcar/static/js/main.6068122c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59cb3a84.css",
+    "static/js/main.6068122c.js"
+  ]
+}
