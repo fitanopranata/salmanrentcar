@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/salmanrentcar/static/css/main.59cb3a84.css",
-    "main.js": "/salmanrentcar/static/js/main.6068122c.js",
+    "main.js": "/salmanrentcar/static/js/main.74407488.js",
     "static/media/cars.jpg": "/salmanrentcar/static/media/cars.87974247395d46b1b242.jpg",
     "static/media/xpander2.jpg": "/salmanrentcar/static/media/xpander2.6d0585256e3cd013534d.jpg",
     "static/media/logo.png": "/salmanrentcar/static/media/logo.7cbfdd9182742a932bab.png",
@@ -16,10 +16,10 @@
     "static/media/cheap-price.png": "/salmanrentcar/static/media/cheap-price.23d792e249e1bbb73fc9.png",
     "index.html": "/salmanrentcar/index.html",
     "main.59cb3a84.css.map": "/salmanrentcar/static/css/main.59cb3a84.css.map",
-    "main.6068122c.js.map": "/salmanrentcar/static/js/main.6068122c.js.map"
+    "main.74407488.js.map": "/salmanrentcar/static/js/main.74407488.js.map"
   },
   "entrypoints": [
     "static/css/main.59cb3a84.css",
-    "static/js/main.6068122c.js"
+    "static/js/main.74407488.js"
   ]
 }
