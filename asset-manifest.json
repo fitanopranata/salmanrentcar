@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/salmanrentcar/static/css/main.59cb3a84.css",
+    "main.css": "/salmanrentcar/static/css/main.442aeabc.css",
     "main.js": "/salmanrentcar/static/js/main.74407488.js",
     "static/media/cars.jpg": "/salmanrentcar/static/media/cars.87974247395d46b1b242.jpg",
     "static/media/xpander2.jpg": "/salmanrentcar/static/media/xpander2.6d0585256e3cd013534d.jpg",
@@ -10,16 +10,16 @@
     "static/media/airport.jpg": "/salmanrentcar/static/media/airport.64c535b47482757e70e3.jpg",
     "static/media/rush.jpg": "/salmanrentcar/static/media/rush.0cbf714764a99369005f.jpg",
     "static/media/driver.jpg": "/salmanrentcar/static/media/driver.350122509f8907a0b396.jpg",
-    "static/media/masthead2.jpg": "/salmanrentcar/static/media/masthead2.479ca04e57fe8b1d6f3f.jpg",
+    "static/media/masthead2.jpg": "/salmanrentcar/static/media/masthead2.95c9d3f2154304a35438.jpg",
     "static/media/car-3.png": "/salmanrentcar/static/media/car-3.9262466a10a00185b8a5.png",
     "static/media/five-star.png": "/salmanrentcar/static/media/five-star.1066230cd92fb7c6f681.png",
     "static/media/cheap-price.png": "/salmanrentcar/static/media/cheap-price.23d792e249e1bbb73fc9.png",
     "index.html": "/salmanrentcar/index.html",
-    "main.59cb3a84.css.map": "/salmanrentcar/static/css/main.59cb3a84.css.map",
+    "main.442aeabc.css.map": "/salmanrentcar/static/css/main.442aeabc.css.map",
     "main.74407488.js.map": "/salmanrentcar/static/js/main.74407488.js.map"
   },
   "entrypoints": [
-    "static/css/main.59cb3a84.css",
+    "static/css/main.442aeabc.css",
     "static/js/main.74407488.js"
   ]
 }
